@@ -5,6 +5,6 @@ This is the official code repository for our paper accepted to **2026 IEEE Robot
 
 ## Experimental Video
 
-[![Experimental video](assets/demo_cover.png)](https://github.com/Nikanbaturu/S3aDPWo/releases/latest)
+[![Experimental video](https://github.com/Nikanbaturu/S3aDPWo/releases/latest)
 
 Current experimental results are available in the prerelease page above.
